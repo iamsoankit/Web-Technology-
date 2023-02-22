@@ -7,4 +7,5 @@ Web Technology Lab (IT 2004)
 This course is a part of the School of Computer Engineering and is worth 2 credits.
 
 🎀Lab Course Contents
+
 The lab course covers the following topics:
